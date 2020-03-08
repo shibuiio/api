@@ -1,50 +1,9 @@
 {
-  "transactions": [{
-  "id": 1,
-  "title": "Godiva White Chocolate",
-  "amount": "£113.53",
-  "date": "1/6/2020"
-}, {
-  "id": 2,
-  "title": "Rosemary - Primerba, Paste",
-  "amount": "£239.70",
-  "date": "12/21/2019"
-}, {
-  "id": 3,
-  "title": "Plaintain",
-  "amount": "£97.78",
-  "date": "2/29/2020"
-}, {
-  "id": 4,
-  "title": "Vinegar - White",
-  "amount": "£462.09",
-  "date": "1/27/2020"
-}, {
-  "id": 5,
-  "title": "Mustard - Seed",
-  "amount": "£127.18",
-  "date": "1/7/2020"
-}, {
-  "id": 6,
-  "title": "Dome Lid Clear P92008h",
-  "amount": "£471.93",
-  "date": "1/1/2020"
-}, {
-  "id": 7,
-  "title": "Prunes - Pitted",
-  "amount": "£324.55",
-  "date": "2/18/2020"
-}, {
-  "id": 8,
-  "title": "Ice Cream Bar - Hagen Daz",
-  "amount": "£178.14",
-  "date": "2/1/2020"
-}, {
-  "id": 9,
-  "title": "Peach - Halves",
-  "amount": "£234.44",
-  "date": "1/17/2020"
-}
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
   ],
   "profile": {
     "name": "typicode"
