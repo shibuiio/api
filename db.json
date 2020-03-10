@@ -1,156 +1,301 @@
-{
-  "transactions": [{
+[{
   "id": 1,
-  "title": "Juice - Pineapple, 48 Oz",
-  "amount": "£437.26",
-  "date": "3/2/2020"
+  "counterparty": "Github",
+  "category": "Eating Out",
+  "amount": "-38.70",
+  "currency": "Bø"
 }, {
   "id": 2,
-  "title": "Sauce - Bernaise, Mix",
-  "amount": "£338.69",
-  "date": "2/5/2020"
+  "counterparty": "Zara",
+  "category": "Gifts",
+  "amount": "-48.82",
+  "currency": "Bø"
 }, {
   "id": 3,
-  "title": "Mudslide",
-  "amount": "£423.04",
-  "date": "2/7/2020"
+  "counterparty": "Costa",
+  "category": "Eating Out",
+  "amount": "60.68",
+  "currency": "Bø"
 }, {
   "id": 4,
-  "title": "Asparagus - White, Canned",
-  "amount": "£227.79",
-  "date": "12/24/2019"
+  "counterparty": "Github",
+  "category": "Eating Out",
+  "amount": "99.32",
+  "currency": "Bø"
 }, {
   "id": 5,
-  "title": "Cookies - Englishbay Chochip",
-  "amount": "£78.29",
-  "date": "12/15/2019"
+  "counterparty": "Bó",
+  "category": "Gifts",
+  "amount": "-76.46",
+  "currency": "Bø"
 }, {
   "id": 6,
-  "title": "Sproutsmustard Cress",
-  "amount": "£56.19",
-  "date": "1/26/2020"
+  "counterparty": "Github",
+  "category": "Eating Out",
+  "amount": "-38.76",
+  "currency": "Bø"
 }, {
   "id": 7,
-  "title": "Appetiser - Bought",
-  "amount": "£421.69",
-  "date": "12/28/2019"
+  "counterparty": "Github",
+  "category": "Gifts",
+  "amount": "27.67",
+  "currency": "Bø"
 }, {
   "id": 8,
-  "title": "Scallops - In Shell",
-  "amount": "£472.92",
-  "date": "2/27/2020"
+  "counterparty": "Github",
+  "category": "Gifts",
+  "amount": "68.49",
+  "currency": "Bø"
 }, {
   "id": 9,
-  "title": "Bread - Pumpernickel",
-  "amount": "£142.67",
-  "date": "12/12/2019"
+  "counterparty": "Bó",
+  "category": "Eating Out",
+  "amount": "71.87",
+  "currency": "Bø"
 }, {
   "id": 10,
-  "title": "Mushroom - Portebello",
-  "amount": "£290.57",
-  "date": "3/3/2020"
+  "counterparty": "Bó",
+  "category": "Subscriptions",
+  "amount": "-6.81",
+  "currency": "Bø"
 }, {
   "id": 11,
-  "title": "Whmis Spray Bottle Graduated",
-  "amount": "£314.31",
-  "date": "12/29/2019"
+  "counterparty": "Cafe Nero",
+  "category": "Gifts",
+  "amount": "50.96",
+  "currency": "Bø"
 }, {
   "id": 12,
-  "title": "Everfresh Products",
-  "amount": "£490.30",
-  "date": "1/7/2020"
+  "counterparty": "Costa",
+  "category": "Subscriptions",
+  "amount": "-92.42",
+  "currency": "Bø"
 }, {
   "id": 13,
-  "title": "Chicken - White Meat, No Tender",
-  "amount": "£267.40",
-  "date": "12/20/2019"
+  "counterparty": "Zara",
+  "category": "Gifts",
+  "amount": "-54.33",
+  "currency": "Bø"
 }, {
   "id": 14,
-  "title": "Beef - Tenderloin",
-  "amount": "£326.99",
-  "date": "12/2/2019"
+  "counterparty": "Cafe Nero",
+  "category": "Eating Out",
+  "amount": "91.96",
+  "currency": "Bø"
 }, {
   "id": 15,
-  "title": "Foil - Round Foil",
-  "amount": "£140.08",
-  "date": "12/20/2019"
+  "counterparty": "Bó",
+  "category": "Subscriptions",
+  "amount": "47.19",
+  "currency": "Bø"
 }, {
   "id": 16,
-  "title": "Coffee - Beans, Whole",
-  "amount": "£103.77",
-  "date": "1/25/2020"
+  "counterparty": "Bó",
+  "category": "Subscriptions",
+  "amount": "42.04",
+  "currency": "Bø"
 }, {
   "id": 17,
-  "title": "Soup - Tomato Mush. Florentine",
-  "amount": "£40.33",
-  "date": "2/25/2020"
+  "counterparty": "Cafe Nero",
+  "category": "Gifts",
+  "amount": "-45.60",
+  "currency": "Bø"
 }, {
   "id": 18,
-  "title": "Bread Base - Gold Formel",
-  "amount": "£254.00",
-  "date": "1/10/2020"
+  "counterparty": "Starbucks",
+  "category": "Subscriptions",
+  "amount": "33.23",
+  "currency": "Bø"
 }, {
   "id": 19,
-  "title": "Trueblue - Blueberry 12x473ml",
-  "amount": "£117.43",
-  "date": "2/24/2020"
+  "counterparty": "Costa",
+  "category": "Subscriptions",
+  "amount": "38.83",
+  "currency": "Bø"
 }, {
   "id": 20,
-  "title": "Croissant, Raw - Mini",
-  "amount": "£283.45",
-  "date": "2/21/2020"
+  "counterparty": "Bó",
+  "category": "Gifts",
+  "amount": "-39.47",
+  "currency": "Bø"
 }, {
   "id": 21,
-  "title": "Pepper - Yellow Bell",
-  "amount": "£378.51",
-  "date": "1/23/2020"
+  "counterparty": "Cafe Nero",
+  "category": "Subscriptions",
+  "amount": "-37.47",
+  "currency": "Bø"
 }, {
   "id": 22,
-  "title": "Peach - Fresh",
-  "amount": "£175.67",
-  "date": "12/22/2019"
+  "counterparty": "Cafe Nero",
+  "category": "Eating Out",
+  "amount": "17.05",
+  "currency": "Bø"
 }, {
   "id": 23,
-  "title": "Heavy Duty Dust Pan",
-  "amount": "£375.41",
-  "date": "12/23/2019"
+  "counterparty": "Starbucks",
+  "category": "Gifts",
+  "amount": "-75.81",
+  "currency": "Bø"
 }, {
   "id": 24,
-  "title": "Bay Leaf Ground",
-  "amount": "£172.30",
-  "date": "2/21/2020"
+  "counterparty": "Zara",
+  "category": "Eating Out",
+  "amount": "73.43",
+  "currency": "Bø"
 }, {
   "id": 25,
-  "title": "Steampan - Half Size Shallow",
-  "amount": "£186.48",
-  "date": "3/2/2020"
+  "counterparty": "Zara",
+  "category": "Subscriptions",
+  "amount": "32.07",
+  "currency": "Bø"
 }, {
   "id": 26,
-  "title": "Guava",
-  "amount": "£429.45",
-  "date": "2/22/2020"
+  "counterparty": "Starbucks",
+  "category": "Eating Out",
+  "amount": "80.52",
+  "currency": "Bø"
 }, {
   "id": 27,
-  "title": "Raisin - Dark",
-  "amount": "£104.29",
-  "date": "12/7/2019"
+  "counterparty": "Costa",
+  "category": "Gifts",
+  "amount": "-88.37",
+  "currency": "Bø"
 }, {
   "id": 28,
-  "title": "Chicken - Tenderloin",
-  "amount": "£225.51",
-  "date": "2/25/2020"
+  "counterparty": "Cafe Nero",
+  "category": "Eating Out",
+  "amount": "83.82",
+  "currency": "Bø"
 }, {
   "id": 29,
-  "title": "Celery",
-  "amount": "£276.92",
-  "date": "2/25/2020"
+  "counterparty": "Zara",
+  "category": "Gifts",
+  "amount": "70.74",
+  "currency": "Bø"
 }, {
   "id": 30,
-  "title": "Tarts Assorted",
-  "amount": "£308.94",
-  "date": "3/2/2020"
-}],
-  "profile": {
-    "name": "typicode"
-  }
-}
+  "counterparty": "Github",
+  "category": "Eating Out",
+  "amount": "76.67",
+  "currency": "Bø"
+}, {
+  "id": 31,
+  "counterparty": "Bó",
+  "category": "Subscriptions",
+  "amount": "-55.70",
+  "currency": "Bø"
+}, {
+  "id": 32,
+  "counterparty": "Costa",
+  "category": "Subscriptions",
+  "amount": "-52.18",
+  "currency": "Bø"
+}, {
+  "id": 33,
+  "counterparty": "Cafe Nero",
+  "category": "Subscriptions",
+  "amount": "-13.32",
+  "currency": "Bø"
+}, {
+  "id": 34,
+  "counterparty": "Github",
+  "category": "Subscriptions",
+  "amount": "56.51",
+  "currency": "Bø"
+}, {
+  "id": 35,
+  "counterparty": "Github",
+  "category": "Eating Out",
+  "amount": "-95.78",
+  "currency": "Bø"
+}, {
+  "id": 36,
+  "counterparty": "Zara",
+  "category": "Eating Out",
+  "amount": "28.91",
+  "currency": "Bø"
+}, {
+  "id": 37,
+  "counterparty": "Bó",
+  "category": "Eating Out",
+  "amount": "-66.83",
+  "currency": "Bø"
+}, {
+  "id": 38,
+  "counterparty": "Starbucks",
+  "category": "Subscriptions",
+  "amount": "-97.49",
+  "currency": "Bø"
+}, {
+  "id": 39,
+  "counterparty": "Bó",
+  "category": "Gifts",
+  "amount": "45.40",
+  "currency": "Bø"
+}, {
+  "id": 40,
+  "counterparty": "Cafe Nero",
+  "category": "Eating Out",
+  "amount": "-17.68",
+  "currency": "Bø"
+}, {
+  "id": 41,
+  "counterparty": "Starbucks",
+  "category": "Eating Out",
+  "amount": "-77.54",
+  "currency": "Bø"
+}, {
+  "id": 42,
+  "counterparty": "Starbucks",
+  "category": "Gifts",
+  "amount": "31.34",
+  "currency": "Bø"
+}, {
+  "id": 43,
+  "counterparty": "Starbucks",
+  "category": "Eating Out",
+  "amount": "87.99",
+  "currency": "Bø"
+}, {
+  "id": 44,
+  "counterparty": "Costa",
+  "category": "Eating Out",
+  "amount": "-26.99",
+  "currency": "Bø"
+}, {
+  "id": 45,
+  "counterparty": "Github",
+  "category": "Eating Out",
+  "amount": "-64.04",
+  "currency": "Bø"
+}, {
+  "id": 46,
+  "counterparty": "Starbucks",
+  "category": "Eating Out",
+  "amount": "-77.72",
+  "currency": "Bø"
+}, {
+  "id": 47,
+  "counterparty": "Cafe Nero",
+  "category": "Gifts",
+  "amount": "-26.54",
+  "currency": "Bø"
+}, {
+  "id": 48,
+  "counterparty": "Github",
+  "category": "Eating Out",
+  "amount": "98.83",
+  "currency": "Bø"
+}, {
+  "id": 49,
+  "counterparty": "Starbucks",
+  "category": "Eating Out",
+  "amount": "30.25",
+  "currency": "Bø"
+}, {
+  "id": 50,
+  "counterparty": "Cafe Nero",
+  "category": "Eating Out",
+  "amount": "-13.30",
+  "currency": "Bø"
+}]
